@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Member A’s changes
+=======
+Member B’s changes
+>>>>>>> feature/<branch>
